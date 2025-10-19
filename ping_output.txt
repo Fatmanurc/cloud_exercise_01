@@ -1,0 +1,11 @@
+
+Pinging 34.168.99.51 with 32 bytes of data:
+Reply from 34.168.99.51: bytes=32 time=261ms TTL=50
+Reply from 34.168.99.51: bytes=32 time=292ms TTL=50
+Reply from 34.168.99.51: bytes=32 time=319ms TTL=50
+Reply from 34.168.99.51: bytes=32 time=324ms TTL=50
+
+Ping statistics for 34.168.99.51:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 261ms, Maximum = 324ms, Average = 299ms
